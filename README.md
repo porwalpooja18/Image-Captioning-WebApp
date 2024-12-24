@@ -1,6 +1,6 @@
 # Image-Captioning-WebApp
 
-This project involves the development of an Image Captioning model that generates contextually relevant captions for input images. It combines advanced deep learning techniques with a user-friendly web interface for practical application.
+This project involves the development of an Image Captioning model that generates contextually relevant captions for input images. It combines deep learning techniques with a user-friendly web interface for practical application.
 
 ## Features
 
